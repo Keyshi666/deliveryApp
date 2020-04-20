@@ -110,9 +110,9 @@
             // 
             this.dropdownDelivery.FormattingEnabled = true;
             this.dropdownDelivery.Items.AddRange(new object[] {
-            "Легкий продукт",
-            "Тяжелый продукт",
-            "Экстренная доставка"});
+            "Легкий товар",
+            "Тяжелый товар",
+            "Экспресс-доставка"});
             this.dropdownDelivery.Location = new System.Drawing.Point(205, 30);
             this.dropdownDelivery.Name = "dropdownDelivery";
             this.dropdownDelivery.Size = new System.Drawing.Size(145, 21);

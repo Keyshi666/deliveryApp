@@ -7,6 +7,7 @@ namespace BL
     {
         public Dictionary<string, double> destinations;
         public double productCost;
+        public string productName;
     
         public Product(double productCost) 
         {

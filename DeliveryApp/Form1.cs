@@ -15,8 +15,8 @@ namespace DeliveryApp
 
     public partial class Form1 : Form
     {
-        private const string HeavyProductText = "Тяжелый продукт";
-        private const string LightProductText = "Легкий продукт";
+        private const string HeavyProductText = "Тяжелый товар";
+        private const string LightProductText = "Легкий товар";
         private const string ExpressProductText = "Экспресс-доставка";
         double index = 2;
         public string delivery;
@@ -52,7 +52,7 @@ namespace DeliveryApp
         {
             
             delivery = (string) dropdownDelivery.SelectedItem;
-            if (delivery == "Тяжелый продукт")
+            if (delivery == "Тяжелый товар")
             {
                 textBox_weight.Enabled = true;
             }
