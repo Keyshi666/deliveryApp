@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\DeliveryApp\BL\bin\Debug\netstandard2.0\BL.deps.json
+C:\Users\user\source\repos\DeliveryApp\BL\bin\Debug\netstandard2.0\BL.dll
+C:\Users\user\source\repos\DeliveryApp\BL\bin\Debug\netstandard2.0\BL.pdb
+C:\Users\user\source\repos\DeliveryApp\BL\obj\Debug\netstandard2.0\BL.csprojAssemblyReference.cache
+C:\Users\user\source\repos\DeliveryApp\BL\obj\Debug\netstandard2.0\BL.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DeliveryApp\BL\obj\Debug\netstandard2.0\BL.AssemblyInfo.cs
+C:\Users\user\source\repos\DeliveryApp\BL\obj\Debug\netstandard2.0\BL.dll
+C:\Users\user\source\repos\DeliveryApp\BL\obj\Debug\netstandard2.0\BL.pdb

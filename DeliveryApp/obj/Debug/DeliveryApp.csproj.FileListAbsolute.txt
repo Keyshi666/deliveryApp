@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\DeliveryApp\DeliveryApp\bin\Debug\DeliveryApp.exe.config
+C:\Users\user\source\repos\DeliveryApp\DeliveryApp\bin\Debug\DeliveryApp.exe
+C:\Users\user\source\repos\DeliveryApp\DeliveryApp\bin\Debug\DeliveryApp.pdb
+C:\Users\user\source\repos\DeliveryApp\DeliveryApp\obj\Debug\DeliveryApp.csprojAssemblyReference.cache
+C:\Users\user\source\repos\DeliveryApp\DeliveryApp\obj\Debug\DeliveryApp.Form1.resources
+C:\Users\user\source\repos\DeliveryApp\DeliveryApp\obj\Debug\DeliveryApp.Properties.Resources.resources
+C:\Users\user\source\repos\DeliveryApp\DeliveryApp\obj\Debug\DeliveryApp.csproj.GenerateResource.cache
+C:\Users\user\source\repos\DeliveryApp\DeliveryApp\obj\Debug\DeliveryApp.exe
+C:\Users\user\source\repos\DeliveryApp\DeliveryApp\obj\Debug\DeliveryApp.pdb
+C:\Users\user\source\repos\DeliveryApp\DeliveryApp\bin\Debug\BL.dll
+C:\Users\user\source\repos\DeliveryApp\DeliveryApp\bin\Debug\BL.pdb
+C:\Users\user\source\repos\DeliveryApp\DeliveryApp\obj\Debug\DeliveryApp.csproj.CopyComplete
